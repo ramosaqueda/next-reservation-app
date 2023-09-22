@@ -11,6 +11,7 @@
 		"format": "prettier --write ."
 	},
 	"dependencies": {
+		"@next-auth/prisma-adapter": "1.0.7",
 		"@types/bcryptjs": "2.4.3",
 		"@types/node": "20.2.5",
 		"@types/react": "18.2.8",
